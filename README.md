@@ -1,4 +1,4 @@
-# IBM-Data-Analyst-Capstone-Project                [![Credy Badges](https://images.credly.com/size/110x110/images/ceafcdde-1722-4ed6-a120-e9c00083d333/Data_Engineering_and_Machine_Learning_using_Spark.png)](https://www.credly.com/users/rauljrz)
+# IBM-Data-Analyst-Capstone-Project                [![Credy Badges](https://images.credly.com/size/110x110/images/f02ecb21-5237-4974-b259-0a8f74675c59/Data_Analyst_Capstone.png)](https://www.credly.com/users/rauljrz)
 
 ### Documents and data used to create my Capstone Project for IBM Data Analyst Professional Certificate (Completed January 2022)
 
